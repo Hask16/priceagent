@@ -9,3 +9,6 @@ Its open source project and everyone is wellcome to participate
 
 ## How to 
 This is the section where we can add all information about the setup and run the agent
+
+### Get repository 
+- Download **priceagent** repository in your computer
