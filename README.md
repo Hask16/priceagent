@@ -12,3 +12,6 @@ This is the section where we can add all information about the setup and run the
 
 ### Get repository 
 - Download **priceagent** repository in your computer
+
+## Improvement
+- All information require to improve the agent
